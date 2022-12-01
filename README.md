@@ -8,7 +8,7 @@ I've been learning to code for 2 years, I started with C++ then deep dived into 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [laxmankari27@gmail.com](mailto:laxmankari27@gmail.com)
-* 🧠  I'm learning ReactJS, NodeJS, System Design.
+* 🧠  I'm currently learning ReactJS, NodeJS, System Design.
 * 🤝  I'm open to collaborating on Interesting Projects.
 * ⚡  I'm a person with super powers...keep this as a secret.
 
