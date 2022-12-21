@@ -4,9 +4,9 @@ import {legacy_createStore} from 'redux';
 
 import  './index.css'
 import App from './components/App';
-import movies from './reducers';
+import combineReducers from './reducers';
 
-const store = legacy_createStore(movies); 
+const store = legacy_createStore(combineReducers); 
 
 
 console.log('STORE',store);
