@@ -6,6 +6,7 @@ import  './index.css'
 import App from './components/App';
 import combineReducers from './reducers';
 
+// use combine reducers to manage all reducers 
 const store = legacy_createStore(combineReducers); 
 
 
