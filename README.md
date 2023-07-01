@@ -10,7 +10,6 @@ I've been learning to code for 2 years, I started with C++ then deep dived into 
 * ✉️  You can contact me at [laxmankari27@gmail.com](mailto:laxmankari27@gmail.com)
 * 🧠  I'm currently learning ReactJS, NodeJS, System Design.
 * 🤝  I'm open to collaborating on Interesting Projects.
-* ⚡  I'm a person with super powers...keep this as a secret.
 
 <a href="https://www.github.com/LaxmanKari" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LaxmanKari?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
