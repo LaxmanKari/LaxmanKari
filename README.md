@@ -1,7 +1,7 @@
 Hi 👋 My name is Kari Laxman
 ============================
 
-Software Developer
+Aspiring Software Developer
 ------------------
 
 I've been learning to code for 2 years, I started with C++ then deep dived into data structures and algorithms. Worked on web development with MERN Stack. Currently working on my dev skills. Found a passion for backend development.
