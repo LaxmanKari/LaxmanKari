@@ -4,7 +4,7 @@ Hi 👋 My name is Kari Laxman
 Aspiring Software Developer
 ------------------
 
-I've been learning to code for 2 years, I started with C++ then deep dived into data structures and algorithms. Worked on web development with MERN Stack. Currently working on my dev skills. Found a passion for backend development.
+Full stack developer who loves building scalable web applications. Loves Problem Solving. 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [laxmankari27@gmail.com](mailto:laxmankari27@gmail.com)
