@@ -8,7 +8,6 @@ Full stack developer who loves building scalable web applications. Loves Problem
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [laxmankari27@gmail.com](mailto:laxmankari27@gmail.com)
-* 🧠  I'm currently learning ReactJS, NodeJS, System Design.
 * 🤝  I'm open to collaborating on Interesting Projects.
 
 <a href="https://www.github.com/LaxmanKari" target="_blank" rel="noreferrer"><img
