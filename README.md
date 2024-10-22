@@ -1,7 +1,7 @@
 Hi 👋 My name is Kari Laxman
 ============================
 
-Aspiring Software Developer
+Software Developer
 ------------------
 
 Full stack developer who loves building scalable web applications. Loves Problem Solving. 
